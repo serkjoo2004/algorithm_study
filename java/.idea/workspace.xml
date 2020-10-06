@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dd8dff69-64bf-482a-af4d-a90173e90795" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../cpp/1000" beforeDir="false" afterPath="$PROJECT_DIR$/../cpp/1000" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cpp/test" beforeDir="false" afterPath="$PROJECT_DIR$/../cpp/test" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cpp/test.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../cpp/test.cpp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1iUpFAfmLysnDo8pD5EbFor6uMq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="GroovyScriptRunConfiguration" factoryName="Groovy">
+      <setting name="path" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="file://$PROJECT_DIR$" />
+      <setting name="debug" value="false" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dd8dff69-64bf-482a-af4d-a90173e90795" name="Default Changelist" comment="" />
+      <created>1601971918085</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601971918085</updated>
+      <workItem from="1601971919334" duration="307000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="184" y="84" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601971961761">
+      <screen x="0" y="23" width="1440" height="798" />
+    </state>
+    <state x="184" y="84" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.798@0.23.1440.798" timestamp="1601971961761" />
+    <state x="88" y="44" key="new project wizard" timestamp="1601972224499">
+      <screen x="0" y="23" width="1440" height="798" />
+    </state>
+    <state x="88" y="44" key="new project wizard/0.23.1440.798@0.23.1440.798" timestamp="1601972224499" />
+  </component>
+</project>
