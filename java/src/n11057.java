@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main{
+public class n11057{
     static int length;
     static int [][] arr;
 
