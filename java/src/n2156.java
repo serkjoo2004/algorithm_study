@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main{
+public class n2156{
     static int num;
     static int [] arr;
     static int [] dp;
