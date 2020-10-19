@@ -6,4 +6,4 @@ out/
 
 java.iml
 
-Main.java
+java/src/Main.java
