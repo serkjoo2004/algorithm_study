@@ -1,8 +1,6 @@
-
-import java.util.Arrays;
 import java.util.Scanner;
 
-public class Main{
+public class n2579{
     static int num;
     static int [] arr;
     static int [] cost;
@@ -44,5 +42,3 @@ public class Main{
         sc.close();
     }
 }
-
-
