@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main{
+public class n1699{
     static int num;
     static int [] arr;
     static int [] cost;
@@ -17,7 +17,7 @@ public class Main{
             arr[i] = arr[i-1] + 1;
             for(int j=2; j*j<=i; j++){
                 if(arr[i] > arr[i-j*j] + 1 )
-                arr[i] = arr[i-j*j] + 1;
+                    arr[i] = arr[i-j*j] + 1;
             }
         }
 
