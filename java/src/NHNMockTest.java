@@ -1,8 +1,15 @@
+//모든 원소가 '0' 또는 '1'인 행렬
+//'1'로 표시된 원소는 영역을 나타내며, 상하좌우로 인접한 원소가 '1'이면 같은 영역
+//영역의 크기는 '1'로 표시된 원소의 개수
+//입력 : 행렬의 크기 n, n*n 행렬
+//출력 : 영역의 개수, 각 영역의 크기
+//NHN Pre-Test 1차 모의 시험
+
 import java.util.Collections;
 import java.util.Scanner;
 import java.util.ArrayList;
 
-class Main {
+class NHNMockTest {
     static boolean [][] check;
     static int size;
     static StringBuilder sb = new StringBuilder();
