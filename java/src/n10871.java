@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class Main{
+public class n10871{
     static int num;
     static int [] arr;
     static int x;
