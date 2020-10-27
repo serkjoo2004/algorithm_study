@@ -9,7 +9,7 @@ import java.util.Collections;
 import java.util.Scanner;
 import java.util.ArrayList;
 
-class NHNMockTest {
+class PreTest {
     static boolean [][] check;
     static int size;
     static StringBuilder sb = new StringBuilder();
