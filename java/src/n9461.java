@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main{
+public class n9461{
     static int num;
     static int [] q;
     static long [] cost;
