@@ -1,7 +1,6 @@
-import java.util.Arrays;
 import java.util.Scanner;
 
-public class Main{
+public class n2225{
     static int num;
     static int k;
     static int [][] arr;
