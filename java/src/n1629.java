@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main{
+public class n1629{
     static int A,B,C;
 
     public static void main(String [] args){
@@ -22,4 +22,3 @@ public class Main{
         System.out.println(((ans)*temp)%C);
     }
 }
-
