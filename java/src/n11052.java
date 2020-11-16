@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main{
+public class n11052{
     static int num;
     static int[] arr;
     static int [] cost;
@@ -26,3 +26,4 @@ public class Main{
         System.out.println(cost[num]);
     }
 }
+

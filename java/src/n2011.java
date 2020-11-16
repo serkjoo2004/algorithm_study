@@ -29,6 +29,8 @@ public class n2011{
             }
         }
 
+
+
         System.out.println(cost[cost.length-1]);
     }
 }
